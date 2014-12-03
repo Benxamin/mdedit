@@ -1,0 +1,14 @@
+{
+  "name": "mdedit",
+  "version": "0.0.1",
+  "description": "A desktop github markdown editor",
+  "main": "app/index.html",
+  "scripts": {},
+  "window": {
+    "height": 600,
+    "width": 800,
+    "toolbar": false
+  },
+  "author": "Benjamin Bertrand",
+  "license": "MIT"
+}
